@@ -105,3 +105,13 @@ h1 {
     height: auto; /* Maintain the aspect ratio */
     margin-bottom: 20px; /* Add vertical space between images */
 }
+
+.publication {
+    
+    text-indent: -1.5em; /* Pulls the first line back */
+    padding-left: 1.5em; /* Indents subsequent lines */
+}
+
+.publication-number {
+    font-weight: bold; /* Makes the publication number bold */
+}
